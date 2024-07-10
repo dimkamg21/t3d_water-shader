@@ -1,0 +1,175 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 5184,
+      "max": [
+        1.0,
+        1.0,
+        0.10000000149011612
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.10000000149011612
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 62208,
+      "componentType": 5126,
+      "count": 5184,
+      "max": [
+        0.9181321859359741,
+        0.8945660591125488,
+        0.9999899864196777
+      ],
+      "min": [
+        -0.8971399664878845,
+        -0.8938315510749817,
+        0.3646910786628723
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 5184,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 30246,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "m53studio (https://sketchfab.com/m53studio)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/space-planet-terrain-248009e331744fd89773a8d350881a50",
+      "title": "Space Planet Terrain"
+    },
+    "generator": "Sketchfab-15.1.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 120984,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 41472,
+      "byteOffset": 120984,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 124416,
+      "byteOffset": 162456,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 286872,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material_0",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.36926983470546315,
+          0.11584505741017992,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "Space Planet Terrain.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

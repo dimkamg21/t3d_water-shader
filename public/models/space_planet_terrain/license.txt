@@ -1,0 +1,11 @@
+Model Information:
+* title:	Space Planet Terrain
+* source:	https://sketchfab.com/3d-models/space-planet-terrain-248009e331744fd89773a8d350881a50
+* author:	m53studio (https://sketchfab.com/m53studio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Space Planet Terrain" (https://sketchfab.com/3d-models/space-planet-terrain-248009e331744fd89773a8d350881a50) by m53studio (https://sketchfab.com/m53studio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
